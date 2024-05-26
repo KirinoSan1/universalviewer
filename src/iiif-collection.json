@@ -10,9 +10,9 @@
       "label": "Wellcome Library",
       "manifests": [
         {
-          "@id": "https://wellcomelibrary.org/iiif/b18035723/manifest",
+          "@id": "src/manifest.json",
           "@type": "sc:Manifest",
-          "label": "Wunder der Vererbung"
+          "label": "Stoffmuster HTW"
         },
         {
           "@id": "https://wellcomelibrary.org/iiif/b23984958/manifest",
