@@ -1,0 +1,2910 @@
+{
+    "@context": "https://iiif.io/api/presentation/2/context.json",
+    "@id": "http://69659a35-3496-438e-958d-889e795e83d3",
+    "@type": "sc:Manifest",
+    "label": "HTW - Stoffmuster (Gestaltung und Kultur) - ha02-03-htw",
+    "metadata": [
+        {
+            "label": "Description",
+            "value": "<span><span>Photo by <a href=\"https://unsplash.com/@gabons\">Gabriel Sollmann</a> on <a href=\"https://unsplash.com/@gabons\">Unsplash</a></span></span>"
+        }
+    ],
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": "[ATTRIBUTIONS BEISPIEL]",
+    "sequences": [
+        {
+            "@id": "http://91a1b50f-72df-40fa-8a04-507183433f90",
+            "@type": "sc:Sequence",
+            "label": [
+                {
+                    "@value": "Normal Sequence",
+                    "@language": "en"
+                }
+            ],
+            "canvases": [
+                {
+                    "@id": "http://d280902d-ddd5-45a6-a1bd-3c5538bd9ce1",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-002-003",
+                    "height": 5628,
+                    "width": 8629,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://cdf1feb7-a21c-4c01-999f-055513a1b06c",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-002-003.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-002-003.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5628,
+                                "width": 8629
+                            },
+                            "on": "http://d280902d-ddd5-45a6-a1bd-3c5538bd9ce1"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-002-003.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://96cb1498-6fcb-4587-a5c7-f650588d43fd",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-004-005",
+                    "height": 5748,
+                    "width": 8596,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://44508739-d406-4921-a69c-948fc7109d27",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-004-005.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-004-005.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5748,
+                                "width": 8596
+                            },
+                            "on": "http://96cb1498-6fcb-4587-a5c7-f650588d43fd"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-004-005.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://ece36e10-4fc1-4ad9-b7ad-3d50eb9e050e",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-006-007",
+                    "height": 5676,
+                    "width": 8640,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://4be08a85-0e30-42e5-a2f1-4ac69e59302d",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-006-007.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-006-007.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8640
+                            },
+                            "on": "http://ece36e10-4fc1-4ad9-b7ad-3d50eb9e050e"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-006-007.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://d6284efb-3c59-4e86-9051-ac31b11c0586",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-008-009",
+                    "height": 5676,
+                    "width": 8640,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://96c694d2-6099-4c32-84e5-6c585ed510d7",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-008-009.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-008-009.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8640
+                            },
+                            "on": "http://d6284efb-3c59-4e86-9051-ac31b11c0586"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-008-009.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://9dd377bc-c864-4d2d-9148-2f0bfd3ad88e",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-010-011",
+                    "height": 5676,
+                    "width": 8640,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://1952bbac-b7cd-4925-8a7e-ec4175a1d63b",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-010-011.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-010-011.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8640
+                            },
+                            "on": "http://9dd377bc-c864-4d2d-9148-2f0bfd3ad88e"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-010-011.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://37c46e51-9333-4723-870e-9b5e0ab42923",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-012-013",
+                    "height": 5676,
+                    "width": 8640,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://d240eb87-ad63-415b-a01b-3a1058f51bd7",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-012-013.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-012-013.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8640
+                            },
+                            "on": "http://37c46e51-9333-4723-870e-9b5e0ab42923"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-012-013.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://d0bd29cb-00e0-4faf-93ce-3c746884ca8b",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-014-015",
+                    "height": 5676,
+                    "width": 8640,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://fb1e2b4f-5b05-4fc7-8362-c3e21cb91c85",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-014-015.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-014-015.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8640
+                            },
+                            "on": "http://d0bd29cb-00e0-4faf-93ce-3c746884ca8b"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-014-015.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://06bbe915-46d1-4acd-976b-b1f7277be9be",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-016-017",
+                    "height": 5676,
+                    "width": 8232,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://d237f798-8b6e-47fe-9b09-f66f0329f444",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-016-017.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-016-017.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8232
+                            },
+                            "on": "http://06bbe915-46d1-4acd-976b-b1f7277be9be"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-016-017.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://0e147c6b-d3df-4b3f-a1d6-177b9ad3952f",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-018-019",
+                    "height": 5676,
+                    "width": 8136,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://4a3be697-b94c-4f16-ad05-e3ab1d43a7e8",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-018-019.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-018-019.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8136
+                            },
+                            "on": "http://0e147c6b-d3df-4b3f-a1d6-177b9ad3952f"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-018-019.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://87312281-63a5-4ee4-b715-b2acfa110ed7",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-020-021",
+                    "height": 5676,
+                    "width": 8136,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://c4466e9b-bc87-4808-8c83-1771eff6e84f",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-020-021.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-020-021.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8136
+                            },
+                            "on": "http://87312281-63a5-4ee4-b715-b2acfa110ed7"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-020-021.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://c2ad3e8a-d1e6-44f8-9148-6c3f32f50949",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-022-023",
+                    "height": 5676,
+                    "width": 8136,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://e83460c8-e2d4-4c4b-a9e7-df62adb093e4",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-022-023.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-022-023.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8136
+                            },
+                            "on": "http://c2ad3e8a-d1e6-44f8-9148-6c3f32f50949"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-022-023.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://b824d4b7-78b7-4487-a19f-57e4b8458797",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-024-025",
+                    "height": 5676,
+                    "width": 8136,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://f4eee28e-67a4-4fd8-bb5f-13d8a146eacf",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-024-025.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-024-025.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8136
+                            },
+                            "on": "http://b824d4b7-78b7-4487-a19f-57e4b8458797"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-024-025.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://80ff491c-3009-4347-bef7-47fa2aec893a",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-026-027",
+                    "height": 5676,
+                    "width": 8136,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://8768429e-6fe1-4a59-a589-4a3d07d89349",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-026-027.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-026-027.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8136
+                            },
+                            "on": "http://80ff491c-3009-4347-bef7-47fa2aec893a"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-026-027.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://afa3458c-0098-456c-8a63-9d4054d17447",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-028-029",
+                    "height": 5676,
+                    "width": 8136,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://9860b081-5cdc-42c4-a18a-62612b219019",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-028-029.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-028-029.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8136
+                            },
+                            "on": "http://afa3458c-0098-456c-8a63-9d4054d17447"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-028-029.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://67d0a5ba-cec4-4142-a08b-3c40eecc8377",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-030-031",
+                    "height": 5676,
+                    "width": 8136,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://6c68d3e8-2aa6-41d3-9a04-54aece82b26f",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-030-031.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-030-031.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8136
+                            },
+                            "on": "http://67d0a5ba-cec4-4142-a08b-3c40eecc8377"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-030-031.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://826c6336-97af-492f-9c22-1d9a601c3205",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-032-033",
+                    "height": 5676,
+                    "width": 8136,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://58fd06d5-a7f5-49df-9bc9-09b563e1ba51",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-032-033.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-032-033.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8136
+                            },
+                            "on": "http://826c6336-97af-492f-9c22-1d9a601c3205"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-032-033.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://4cfbe894-85bf-4072-90fc-0843efb11523",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-034-035",
+                    "height": 5676,
+                    "width": 8136,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://3d60440d-a376-4be8-9e88-a1079f84992e",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-034-035.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-034-035.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8136
+                            },
+                            "on": "http://4cfbe894-85bf-4072-90fc-0843efb11523"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-034-035.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://68e5e5a1-9304-46c3-b252-6fa624def978",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-036-037",
+                    "height": 5676,
+                    "width": 8256,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://ef00e517-9f59-49c0-b9c8-244266e32ca1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-036-037.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-036-037.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8256
+                            },
+                            "on": "http://68e5e5a1-9304-46c3-b252-6fa624def978"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-036-037.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://222410f9-e45d-4518-83bb-e70b47b6dc43",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-038-039",
+                    "height": 5676,
+                    "width": 8256,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://67776c29-866d-45a4-9957-cb7e5dcd6cdb",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-038-039.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-038-039.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8256
+                            },
+                            "on": "http://222410f9-e45d-4518-83bb-e70b47b6dc43"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-038-039.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://aeb26e1d-2313-4f59-9730-28441714274b",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-040-041",
+                    "height": 5676,
+                    "width": 8448,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://83c12448-e1c1-4436-b219-15f5c29f89f2",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-040-041.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-040-041.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8448
+                            },
+                            "on": "http://aeb26e1d-2313-4f59-9730-28441714274b"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-040-041.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://8eb8c7f0-538d-4008-8660-4315153b3cee",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-042-043",
+                    "height": 5676,
+                    "width": 8448,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://42118030-534e-4476-9fed-42bf281f2ce4",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-042-043.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-042-043.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 8448
+                            },
+                            "on": "http://8eb8c7f0-538d-4008-8660-4315153b3cee"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fha02-03-master-panorama%2Fhtw-berlin-stoffmuster-ha02-03-042-043.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://2873edda-bd16-40e6-b80f-a072a5b56b31",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-001",
+                    "height": 5700,
+                    "width": 4728,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://39ff4d46-132e-4ab7-84e9-2092f8ef41ee",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-001.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-001.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4728
+                            },
+                            "on": "http://2873edda-bd16-40e6-b80f-a072a5b56b31"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-001.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://68fcf683-d20b-48f6-976e-044ff2619edb",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-002",
+                    "height": 5628,
+                    "width": 4608,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://da1a95c5-d825-4325-a153-7dafd807ad6b",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-002.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-002.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5628,
+                                "width": 4608
+                            },
+                            "on": "http://68fcf683-d20b-48f6-976e-044ff2619edb"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-002.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://4bbcd37d-533c-47cf-a128-7d401752e139",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-003",
+                    "height": 5652,
+                    "width": 4680,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://25981dfa-0045-4b36-b6af-c041f33f3af8",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-003.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-003.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4680
+                            },
+                            "on": "http://4bbcd37d-533c-47cf-a128-7d401752e139"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-003.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://7dde58cf-3b45-4e93-b743-d0f057188edb",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-004",
+                    "height": 5772,
+                    "width": 4608,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://8bef52f1-8e3c-45c2-aed5-45372ad6ad14",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-004.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-004.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5772,
+                                "width": 4608
+                            },
+                            "on": "http://7dde58cf-3b45-4e93-b743-d0f057188edb"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-004.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://d5d2dbba-eab2-4e65-a6af-d2025cea1136",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-005",
+                    "height": 5724,
+                    "width": 4680,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://2ff04359-450b-4cf1-be07-e143cfb9ce88",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-005.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-005.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5724,
+                                "width": 4680
+                            },
+                            "on": "http://d5d2dbba-eab2-4e65-a6af-d2025cea1136"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-005.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://1bf71ddf-fcbe-4d23-bf23-50b24b99cd87",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-006",
+                    "height": 5700,
+                    "width": 4608,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://d7578669-a5ff-4bdd-85f0-0d8a8311590d",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-006.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-006.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4608
+                            },
+                            "on": "http://1bf71ddf-fcbe-4d23-bf23-50b24b99cd87"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-006.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://9d83343c-d5b0-40df-b1d1-8b82102c2f98",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-007",
+                    "height": 5652,
+                    "width": 4608,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://d2bb4fcb-b62e-48fa-af82-e2655f74a929",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-007.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-007.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4608
+                            },
+                            "on": "http://9d83343c-d5b0-40df-b1d1-8b82102c2f98"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-007.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://e9e07b32-2d4e-4b23-a685-233a99cb0474",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-008",
+                    "height": 5700,
+                    "width": 4608,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://faa14132-cf4c-4747-9dad-ec93f10e7755",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-008.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-008.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4608
+                            },
+                            "on": "http://e9e07b32-2d4e-4b23-a685-233a99cb0474"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-008.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://0d994ce0-b2a7-4943-88c9-3aaf493aa4b6",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-009",
+                    "height": 5652,
+                    "width": 4608,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://a2c0d90f-face-4934-84b6-173fb1238807",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-009.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-009.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4608
+                            },
+                            "on": "http://0d994ce0-b2a7-4943-88c9-3aaf493aa4b6"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-009.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://6699f7b7-9e74-4b17-ae45-9e897ef0f0cf",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-010",
+                    "height": 5700,
+                    "width": 4608,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://9abce81e-efa9-465f-a141-845e098cd38b",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-010.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-010.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4608
+                            },
+                            "on": "http://6699f7b7-9e74-4b17-ae45-9e897ef0f0cf"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-010.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://ec9afcae-8be3-4706-86c6-f0bbc675ed2d",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-011",
+                    "height": 5652,
+                    "width": 4608,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://c45bacb6-575a-431d-91df-f4c6eb16edba",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-011.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-011.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4608
+                            },
+                            "on": "http://ec9afcae-8be3-4706-86c6-f0bbc675ed2d"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-011.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://d2fc4b02-a89c-43a8-bf9e-065922f567c5",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-012",
+                    "height": 5700,
+                    "width": 4752,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://b3d63d9b-d654-42e7-84ff-75e5d957c5b1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-012.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-012.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4752
+                            },
+                            "on": "http://d2fc4b02-a89c-43a8-bf9e-065922f567c5"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-012.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://03e7a2fe-1f17-46ab-8993-4a82bab79618",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-013",
+                    "height": 5652,
+                    "width": 4608,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://fdb0291b-c85b-41d5-abfd-2ed62216b1cf",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-013.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-013.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4608
+                            },
+                            "on": "http://03e7a2fe-1f17-46ab-8993-4a82bab79618"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-013.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://8b4c329e-f472-49c5-8f75-63f412399148",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-014",
+                    "height": 5700,
+                    "width": 4752,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://9f3efd02-f34b-4a9f-ae61-6dea2529cde7",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-014.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-014.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4752
+                            },
+                            "on": "http://8b4c329e-f472-49c5-8f75-63f412399148"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-014.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://5d4e4dfb-84f1-4996-95cd-915966606b2d",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-015",
+                    "height": 5652,
+                    "width": 4608,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://b9f59965-aa28-43ce-8d28-b1f86884e0fa",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-015.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-015.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4608
+                            },
+                            "on": "http://5d4e4dfb-84f1-4996-95cd-915966606b2d"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-015.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://b09fa074-34d9-448d-acdf-5d99354198a3",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-016",
+                    "height": 5724,
+                    "width": 4368,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://1a5df85a-0809-41be-8b1f-07b7b1d27786",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-016.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-016.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5724,
+                                "width": 4368
+                            },
+                            "on": "http://b09fa074-34d9-448d-acdf-5d99354198a3"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-016.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://488480dc-3b4f-4369-9d5b-5784403a9278",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-017",
+                    "height": 5700,
+                    "width": 4536,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://6c1af108-0c50-4e2f-ba23-b5545e6098e5",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-017.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-017.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4536
+                            },
+                            "on": "http://488480dc-3b4f-4369-9d5b-5784403a9278"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-017.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://19a5ee4e-4779-4c9c-b1da-17232189786c",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-018",
+                    "height": 5652,
+                    "width": 4368,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://3f64c52a-09df-4dc9-b3c4-68467134dc5d",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-018.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-018.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4368
+                            },
+                            "on": "http://19a5ee4e-4779-4c9c-b1da-17232189786c"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-018.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://b857852b-9dd6-4ad0-85c9-b1c6a1d024fc",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-019",
+                    "height": 5700,
+                    "width": 4464,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://233e4324-22f0-474b-877f-c5277cfac83c",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-019.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-019.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4464
+                            },
+                            "on": "http://b857852b-9dd6-4ad0-85c9-b1c6a1d024fc"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-019.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://bfe0b3c3-410a-4efd-9b27-f526bcd30af8",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-020",
+                    "height": 5652,
+                    "width": 4368,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://57baabfd-c392-4b7f-ad7b-c337096a8261",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-020.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-020.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4368
+                            },
+                            "on": "http://bfe0b3c3-410a-4efd-9b27-f526bcd30af8"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-020.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://31c168f1-8eb8-4590-afa6-cd11388b4872",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-021",
+                    "height": 5700,
+                    "width": 4464,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://a8a4d288-a27c-4945-b4c0-2e70196fc73b",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-021.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-021.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4464
+                            },
+                            "on": "http://31c168f1-8eb8-4590-afa6-cd11388b4872"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-021.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://b5c5c731-52ff-428e-84b9-79583000ede9",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-022",
+                    "height": 5652,
+                    "width": 4368,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://1e1e5dad-8a31-44e0-9019-642f3a829ea1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-022.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-022.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4368
+                            },
+                            "on": "http://b5c5c731-52ff-428e-84b9-79583000ede9"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-022.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://4e8be2a1-7c8b-4ada-8e73-737389cc7070",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-023",
+                    "height": 5700,
+                    "width": 4464,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://0fa1046e-7780-4c56-b837-28f2de52007f",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-023.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-023.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4464
+                            },
+                            "on": "http://4e8be2a1-7c8b-4ada-8e73-737389cc7070"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-023.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://03dc2bc8-de1d-4ea6-9a64-98cbbe7123d7",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-024",
+                    "height": 5652,
+                    "width": 4368,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://ac981832-1d95-4cfe-8e67-74028b0bae5e",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-024.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-024.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4368
+                            },
+                            "on": "http://03dc2bc8-de1d-4ea6-9a64-98cbbe7123d7"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-024.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://51fe69f0-4980-4d3a-9442-23b4e7f6f165",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-025",
+                    "height": 5700,
+                    "width": 4464,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://4e708cde-ed53-46d7-a92e-3f4762ce173e",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-025.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-025.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4464
+                            },
+                            "on": "http://51fe69f0-4980-4d3a-9442-23b4e7f6f165"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-025.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://dadc8a0b-9050-4d5c-96ab-9558050fd49c",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-026",
+                    "height": 5652,
+                    "width": 4368,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://d1be1bd2-ac7e-4631-a58d-16ee467811a7",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-026.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-026.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4368
+                            },
+                            "on": "http://dadc8a0b-9050-4d5c-96ab-9558050fd49c"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-026.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://c259f50e-fd98-4a56-9ee4-dfdc0d6edfb5",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-027",
+                    "height": 5700,
+                    "width": 4464,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://54f3270d-a140-40d4-9cef-7981c4b6c66f",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-027.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-027.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4464
+                            },
+                            "on": "http://c259f50e-fd98-4a56-9ee4-dfdc0d6edfb5"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-027.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://beb5d757-b193-484a-ac35-224fdb344c7b",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-028",
+                    "height": 5652,
+                    "width": 4368,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://facb65d4-fe5c-419f-b1d6-ab34fe3fa9f0",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-028.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-028.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4368
+                            },
+                            "on": "http://beb5d757-b193-484a-ac35-224fdb344c7b"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-028.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://19e93b08-b1cd-474d-8c35-858f148f7dd6",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-029",
+                    "height": 5700,
+                    "width": 4464,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://6141be85-9bc0-42f1-a62d-051c8e0effc9",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-029.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-029.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4464
+                            },
+                            "on": "http://19e93b08-b1cd-474d-8c35-858f148f7dd6"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-029.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://a40004da-cbd2-405d-a782-3ce0287a241d",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-030",
+                    "height": 5652,
+                    "width": 4368,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://86cd5081-a601-4400-b82c-9cad406572d4",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-030.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-030.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4368
+                            },
+                            "on": "http://a40004da-cbd2-405d-a782-3ce0287a241d"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-030.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://12cd8706-c9f1-4b77-a684-72e0389d3571",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-031",
+                    "height": 5700,
+                    "width": 4464,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://d379e606-d13b-4bde-afc8-cd60fe22bac4",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-031.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-031.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4464
+                            },
+                            "on": "http://12cd8706-c9f1-4b77-a684-72e0389d3571"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-031.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://059086d2-efa1-41e4-9e51-9e8141f0aff4",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-032",
+                    "height": 5652,
+                    "width": 4368,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://d1e07db4-3986-4e73-9577-d4692f5ca550",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-032.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-032.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4368
+                            },
+                            "on": "http://059086d2-efa1-41e4-9e51-9e8141f0aff4"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-032.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://1b1a78c5-f3b4-4aa1-b3c5-7e2635bbf02d",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-033",
+                    "height": 5700,
+                    "width": 4368,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://7994c114-f416-4c9d-8970-d522a0e90f63",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-033.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-033.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4368
+                            },
+                            "on": "http://1b1a78c5-f3b4-4aa1-b3c5-7e2635bbf02d"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-033.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://5893d815-23c8-4203-9940-306a33b7f781",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-034",
+                    "height": 5652,
+                    "width": 4368,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://c67cd3c0-9afd-448f-8297-25e6115fe628",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-034.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-034.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5652,
+                                "width": 4368
+                            },
+                            "on": "http://5893d815-23c8-4203-9940-306a33b7f781"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-034.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://a94f0b05-6b3a-4954-88da-ebdb77e4c390",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-035",
+                    "height": 5700,
+                    "width": 4368,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://80b50356-b8ef-4f61-a0cd-b83c87216bbf",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-035.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-035.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4368
+                            },
+                            "on": "http://a94f0b05-6b3a-4954-88da-ebdb77e4c390"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-035.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://d3640b2f-3ce5-4f64-8b98-384bbb1fb0a2",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-036",
+                    "height": 5724,
+                    "width": 4584,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://a2583a6a-eeb7-4284-9095-cf9797cf61f5",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-036.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-036.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5724,
+                                "width": 4584
+                            },
+                            "on": "http://d3640b2f-3ce5-4f64-8b98-384bbb1fb0a2"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-036.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://943d4a07-5f20-45ed-a614-0309e03d057e",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-037",
+                    "height": 5700,
+                    "width": 4368,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://30ab252a-efa5-4e3a-9dba-178f0cde9e60",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-037.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-037.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4368
+                            },
+                            "on": "http://943d4a07-5f20-45ed-a614-0309e03d057e"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-037.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://f273adc2-153e-462b-a330-3b20de902706",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-038",
+                    "height": 5628,
+                    "width": 4584,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://66689353-1ec5-440e-9eca-b37f18f57f66",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-038.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-038.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5628,
+                                "width": 4584
+                            },
+                            "on": "http://f273adc2-153e-462b-a330-3b20de902706"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-038.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://38eb6c7b-04d0-402f-bd30-5672a9c15955",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-039",
+                    "height": 5676,
+                    "width": 4368,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://b7656488-3d0a-42b1-87ac-493358e7d8c6",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-039.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-039.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 4368
+                            },
+                            "on": "http://38eb6c7b-04d0-402f-bd30-5672a9c15955"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-039.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://d90a2e7e-a6b9-4efa-97b5-a30202025acd",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-040",
+                    "height": 5700,
+                    "width": 4680,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://5f5f22ef-c4e1-446b-bcfb-fda9bed50696",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-040.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-040.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4680
+                            },
+                            "on": "http://d90a2e7e-a6b9-4efa-97b5-a30202025acd"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-040.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://0e64b9cf-c4a4-4a4a-b4a0-d1ba17c9320b",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-041",
+                    "height": 5676,
+                    "width": 4440,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://36471065-e188-47c0-a39a-86f5a7607b55",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-041.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-041.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 4440
+                            },
+                            "on": "http://0e64b9cf-c4a4-4a4a-b4a0-d1ba17c9320b"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-041.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://8a29ae8a-80c1-4472-b55a-fcad01897b21",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-042",
+                    "height": 5700,
+                    "width": 4680,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://355e706a-932b-439b-b61e-7ae4ea78baf1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-042.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-042.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4680
+                            },
+                            "on": "http://8a29ae8a-80c1-4472-b55a-fcad01897b21"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-042.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://1cde5056-e451-452f-85dc-7b5664e89315",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-043",
+                    "height": 5676,
+                    "width": 4440,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://60b2178a-0d49-4dc1-92fa-d34ec3711c63",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-043.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-043.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5676,
+                                "width": 4440
+                            },
+                            "on": "http://1cde5056-e451-452f-85dc-7b5664e89315"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-043.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://2af1973c-62c0-44b0-911d-da6729a71f2e",
+                    "@type": "sc:Canvas",
+                    "label": "htw-berlin-stoffmuster-ha02-03-044",
+                    "height": 5580,
+                    "width": 4584,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://085b0d9e-3007-4f41-b569-16815d272240",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-044.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-044.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5580,
+                                "width": 4584
+                            },
+                            "on": "http://2af1973c-62c0-44b0-911d-da6729a71f2e"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Fhtw-berlin-stoffmuster-ha02-03-044.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://24ecbbc6-e21e-4682-a657-ca0b44824517",
+                    "@type": "sc:Canvas",
+                    "label": "ha02-03- (002)",
+                    "height": 4728,
+                    "width": 5700,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://7a499802-44b9-4f38-a98c-eb704c31c7e9",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Ftest%2Fha02-03-%20(002).tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Ftest%2Fha02-03-%20(002).tif",
+                                    "profile": "level2"
+                                },
+                                "height": 4728,
+                                "width": 5700
+                            },
+                            "on": "http://24ecbbc6-e21e-4682-a657-ca0b44824517"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Ftest%2Fha02-03-%20(002).tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://c86e974e-3591-4dad-b2ec-eed3d4e4df89",
+                    "@type": "sc:Canvas",
+                    "label": "ha02-03-001",
+                    "height": 5700,
+                    "width": 4776,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://68590095-273d-4a49-8fdf-a04bf47d9bd7",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Ftest%2Fha02-03-001.tif/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/3/context.json",
+                                    "@id": "http://localhost:8182/iiif/3/ha02-03-htw%2Ftest%2Fha02-03-001.tif",
+                                    "profile": "level2"
+                                },
+                                "height": 5700,
+                                "width": 4776
+                            },
+                            "on": "http://c86e974e-3591-4dad-b2ec-eed3d4e4df89"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "id": "http://localhost:8182/iiif/3/ha02-03-htw%2Ftest%2Fha02-03-001.tif/full/max/0/default.jpg",
+                            "type": "Image",
+                            "format": "image/jpeg",
+                            "height": 150
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Fachbereich",
+                            "value": "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+                        }
+                    ],
+                    "related": ""
+                }
+            ]
+        }
+    ],
+    "structures": []
+}
